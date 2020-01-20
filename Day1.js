@@ -5,10 +5,10 @@ function main() {
     var d = 4.0
     var s = "HackerRank "
     // Declare second integer, double, and String variables.
+    // Read and save an integer, double, and String to your variables.
     let secondInteger = parseInt(input_stdin_array[0]);
     let double = parseFloat(input_stdin_array[1]) + d;
     let stringVariables = input_stdin_array[2];
-    // Read and save an integer, double, and String to your variables.
     // Print the sum of both integer variables on a new line.
     console.log(secondInteger + i);
     // Print the sum of the double variables on a new line.
