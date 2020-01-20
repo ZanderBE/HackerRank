@@ -1,4 +1,5 @@
 // Day 1 Problem for the 30 day HackerRank Code Challenge
+// Data Types
 function main() {
     var i = 4
     var d = 4.0
